@@ -1,2 +1,3 @@
 # stepik-auto_test_course
-Homework for course1git
+Homework for course1
+New line
