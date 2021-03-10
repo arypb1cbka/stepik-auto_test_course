@@ -1,2 +1,2 @@
 # stepik-auto_test_course
-Homework for course
+Homework for course1
